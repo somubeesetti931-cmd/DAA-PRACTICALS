@@ -94,3 +94,15 @@ The Mini AI Text Classification Application successfully demonstrates how Artifi
 
 
 
+# PRACTICAL-9
+
+## Summary
+
+This practical demonstrates **Prim's Algorithm** to find the Minimum Spanning Tree (MST) of a connected, weighted, undirected graph. The objective is to connect all vertices with the minimum possible total edge weight without forming any cycles. Prim's Algorithm starts from any vertex and repeatedly selects the minimum-weight edge that connects a visited vertex to an unvisited vertex. This process continues until all vertices are included in the spanning tree. The algorithm is useful in network design, road construction, and communication systems.
+
+## Conclusion
+
+Prim's Algorithm successfully determines the Minimum Spanning Tree by selecting the minimum-weight edges while avoiding cycles. It connects all vertices of a graph with the minimum total cost. The algorithm provides an efficient solution for problems involving network connectivity and resource optimization. Therefore, Prim's Algorithm is an important greedy technique used in designing cost-effective networks and solving graph optimization problems.
+
+
+

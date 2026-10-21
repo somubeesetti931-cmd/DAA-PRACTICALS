@@ -118,3 +118,15 @@ Kruskal’s Algorithm successfully finds the Minimum Spanning Tree by selecting 
 
 
 
+# PRACTICAL-11
+
+## Summary
+
+This practical demonstrates the implementation of the **Floyd–Warshall Algorithm** to find the shortest distances between all pairs of vertices in a weighted graph. The algorithm uses a dynamic programming approach to calculate the shortest paths by considering each vertex as an intermediate vertex. It updates the distance matrix whenever a shorter path is found through an intermediate vertex. The algorithm can handle positive edge weights and negative edge weights, provided there are no negative-weight cycles. Its time complexity is O(V³), and its space complexity is O(V²).
+
+## Conclusion
+
+The Floyd–Warshall Algorithm successfully calculates the shortest distances between every pair of vertices in a graph. By repeatedly updating the distance matrix, it determines the minimum distance between vertices through different intermediate paths. This algorithm is useful in network routing, transportation systems, and graph-based applications. Therefore, Floyd–Warshall is an important dynamic programming technique for solving all-pairs shortest-path problems.
+
+
+

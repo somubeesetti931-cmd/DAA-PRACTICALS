@@ -130,3 +130,15 @@ The Floyd–Warshall Algorithm successfully calculates the shortest distances be
 
 
 
+# PRACTICAL-12
+
+## Summary
+
+This practical focuses on solving the **Travelling Salesman Problem (TSP)** using the brute-force approach. The main objective is to find the minimum-cost tour that visits every city exactly once and returns to the starting city. The program generates all possible routes, calculates the total cost of each route, and selects the route with the lowest cost. This problem is useful in transportation, logistics, delivery services, and route planning. The time complexity of the brute-force approach is O(n!), where n is the number of cities.
+
+## Conclusion
+
+The Travelling Salesman Problem is solved by examining all possible routes and selecting the route with the minimum total cost. The program provides the optimal tour for the given set of cities. However, the brute-force method becomes inefficient when the number of cities increases because the number of possible routes grows rapidly. Therefore, the Travelling Salesman Problem is an important optimization problem with practical applications in transportation, logistics, and scheduling.
+
+
+

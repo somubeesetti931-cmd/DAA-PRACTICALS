@@ -82,3 +82,15 @@ The Dynamic Programming technique provides an effective way to solve the minimum
 
 
 
+# PRACTICAL-8
+
+## Summary
+
+This practical demonstrates the development of a **Mini AI Text Classification Application** using Natural Language Processing (NLP) and Machine Learning techniques. The objective is to classify text into predefined categories based on its content. The application processes the input text, converts it into numerical features, and uses a trained machine learning model to predict the appropriate category. This practical helps understand the basic working of AI-based text classification systems and their applications in spam detection, sentiment analysis, and text categorization.
+
+## Conclusion
+
+The Mini AI Text Classification Application successfully demonstrates how Artificial Intelligence and Machine Learning can be used to automatically classify text data. By applying text preprocessing, feature extraction, and classification techniques, the application predicts the category of the given text. This approach reduces manual effort and improves the efficiency of text analysis. Therefore, text classification is an important NLP application used in email filtering, customer feedback analysis, sentiment detection, and other real-world applications.
+
+
+
